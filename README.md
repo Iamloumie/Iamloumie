@@ -4,8 +4,8 @@
 
 <h2>👨‍💻 PROJECT:</h2>
 
-- <h2><b>AFRI-CONNECT</b> Mobile Application</h2>
-![A SLIDE DECK(AFRICONNECT).ALX FOUNDATION](53fd4eac-8cd8-47eb-afa6-a228.jpg)
+- <h3><b>AFRI-CONNECT</b> Mobile Application</h3>
+![App homepage screenshot](Homepage.jpg)
 
 
   <h4>About this Project</h4>
@@ -19,42 +19,34 @@
       <li><em>Critical Thinking</em></li>
   </ul>
 
+<h4>Project link</h4>
 
-<a href="https://drive.google.com/file/d/1UGMnZT_JjPjz6xpXt-OWKRX9PXwq62HR/view?usp=sharing">
-  <img src="https://www.example.com/image.jpg" alt="Description of the image">
-  <figcaption>Image caption goes here</figcaption>
-</a>
+  
+  <div><a href="https://drive.google.com/file/d/1UGMnZT_JjPjz6xpXt-OWKRX9PXwq62HR/view?usp=drive_link">
+  <img src="53fd4eac-8cd8-47eb-afa6-a228af17ad27.JPG" alt="presentation screenshot">
+  <figcaption>Project documentation.pdf</figcaption>
+</a></div>
 
-  - [Designed interface of the Afri-connect app (youtube video)](https://youtu.be/I6EwTVhJ2ro)
-
- 
-<h2>⚡ Fun fact:</h2>
-<ul>
-  <li><b>I'm a chair dancer<br>I know all dancing steps in my head, but I find it hard to do them </b></li>
-</ul>
+- <h3><b>AFRI-CONNECT</b> Pitch video.ALX Presentation</h3>
 
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Iamloumie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Iamloumie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Iamloumie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  <h4>About this Project</h4>
+  <p>A video pitch of the problem identified and the proposed solution</p>
+  <h4>Skills</h4>
+  <ul>
+    <li><em>Good Communication</em></li>
+    <li><em>Time Management</em></li>
+    <li><em>Good Presentation</em></li>
+     <li><em>Audience Engagement</em></li>
+  </ul>
 
-[twitter]: https://x.com/iamloumie?s=21&t=TV1CWqx5f-bQdR0wq3fXLw
-[instagram]: https://www.instagram.com/loumie_grann?igsh=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr
-[linkedin]: https://www.linkedin.com/in/adedamola-lawal-5a3b79213/
+<h4>Project link</h4>
+  
+  <div><a href="https://youtu.be/I6EwTVhJ2ro">
+  <img src="53fd4eac-8cd8-47eb-afa6-a228af17ad27.JPG" alt="presentation screenshot">
+  <figcaption>Pitch video.mp4</figcaption>
+</a></div>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
