@@ -5,7 +5,8 @@
 <h2>👨‍💻 PROJECT:</h2>
 
 - <h2><b>AFRI-CONNECT</b> Mobile Application</h2>
-<img src="https://drive.google.com/file/d/1E_xG2uj0fAoyF1-PFKS60k9va_sWxP9O/view?usp=drive_link" alt="SLIDE DECK Screenshot" width="200" height="150">
+![A SLIDE DECK(AFRICONNECT).ALX FOUNDATION](53fd4eac-8cd8-47eb-afa6-a228.jpg)
+
 
   <h4>About this Project</h4>
   <p>It is an Artificial intelligence platform that assesses and addresses the problem my team and I <Br>identified in the education and job creation sector in Africa</p>
