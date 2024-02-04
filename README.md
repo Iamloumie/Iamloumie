@@ -1,18 +1,32 @@
-<h1>Hi, I'm Loumie! <br/><a href="https://github.com/Iamloumie">Programmer</a>
+<h1>Hi, I'm Loumie! <br/><a href="https://github.com/Iamloumie">Potential Software Engineer</a>
 
 <h2>🌱 I’m currently enrolled in Software Engineering programme @ALX</h2>
 
-<h2>👨‍💻 Project:</h2>
+<h2>👨‍💻 PROJECT:</h2>
 
-- <b>An Educational/financial app design (TEAM PROJECT@ALX)</b>
+- <h2><b>AFRI-CONNECT</b> Mobile Application</h2>
+<img src="https://drive.google.com/file/d/1E_xG2uj0fAoyF1-PFKS60k9va_sWxP9O/view?usp=drive_link" alt="SLIDE DECK Screenshot" width="200" height="150">
+
+  <h4>About this Project</h4>
+  <p>It is an Artificial intelligence platform that assesses and addresses the problem my team and I <Br>identified in the education and job creation sector in Africa</p>
+  <h4>Skills</h4>
+  <ul>
+    <li><em>Figma</em></li>
+    <li><em>UX design</em></li>
+    <li><em>Microsoft Excel</em></li>
+     <li><em>Problem solving</em></li>
+      <li><em>Critical Thinking</em></li>
+  </ul>
+
+
+<a href="https://drive.google.com/file/d/1UGMnZT_JjPjz6xpXt-OWKRX9PXwq62HR/view?usp=sharing">
+  <img src="https://www.example.com/image.jpg" alt="Description of the image">
+  <figcaption>Image caption goes here</figcaption>
+</a>
+
   - [Designed interface of the Afri-connect app (youtube video)](https://youtu.be/I6EwTVhJ2ro)
 
  
-<h2>🤔 I’m looking for help with</h2>
-<ul>
-  <li><b>Internship placements that will assist in my growth as a software engineer</b></li>
-  <li><b>Mentorship on full stack development</b></li>
-</ul>
 <h2>⚡ Fun fact:</h2>
 <ul>
   <li><b>I'm a chair dancer<br>I know all dancing steps in my head, but I find it hard to do them </b></li>
