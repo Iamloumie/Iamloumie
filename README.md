@@ -59,13 +59,13 @@ Here’s what I love working on:
 
 ## 🌐 Let’s Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://wa.me/2347039417051">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:lawaladedamolaolumide@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/your-twitter/">
+  <a href="https://twitter.com/iamloumie/">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
