@@ -1,8 +1,9 @@
 <!-- Banner image from external source -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?w=1920" alt="Banner" width="100%" />
-  <!-- (Replace the above URL with a reliable banner link you like) -->
-</p>
+---
+
+<p align="center">  
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coding animation" />  
+</p>  
 
 ---
 
@@ -44,21 +45,7 @@ Here’s what I love working on:
 | 🏡 **Real Estate Website** | 🔍 Property search & filter, 🗺️ Map integration, 📸 Beautiful listings |  
 | 🚀 **Digital Agency Website** | 🎯 Modern landing page, 🖼️ Portfolio showcase, 📬 Contact forms |  
 
-<p align="center">  
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coding animation" />  
-</p>  
 
----
-
-
-
-## 📸 Welcome Bitmoji  
-<p align="center">
-  <img src="https://i.pravatar.cc/150?img=3" alt="Welcome Bitmoji / Avatar" width="150" style="border-radius:50%;" />
-  <!-- (You can replace this avatar link with any avatar/bitmoji image URL you like) -->
-</p>
-
----
 
 ## 📊 GitHub at a Glance  
 <p align="center">
