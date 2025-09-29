@@ -1,50 +1,88 @@
-<h1>Hi, I'm Loumie! <br/><a href="https://github.com/Iamloumie">Software Engineer</a>
+<!-- Banner image from external source -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?w=1920" alt="Banner" width="100%" />
+  <!-- (Replace the above URL with a reliable banner link you like) -->
+</p>
 
-<h2>👨‍💻 PROJECT:</h2>
+---
 
-- <h3><b>AFRI-CONNECT</b> Mobile Application</h3>
-![App homepage screenshot](Homepage.jpg)
+# 👋 Hey, I’m **Loumie**  
+Welcome to my corner of GitHub 💫
+
+---
 
 
-  <h4>About this Project</h4>
-  <p>It is an Artificial intelligence platform that assesses and addresses the problem my team and I <Br>identified in the education and job creation sector in Africa</p>
-  <h4>Skills</h4>
-  <ul>
-    <li><em>Figma</em></li>
-    <li><em>UX design</em></li>
-    <li><em>Microsoft Excel</em></li>
-     <li><em>Problem solving</em></li>
-      <li><em>Critical Thinking</em></li>
-  </ul>
+## ✨ What I Do  
+💻 I’m a **Frontend Engineer** passionate about building **clean, modern, and user-friendly web apps**.  
+Here’s what I love working on:  
 
-<h4>Project link</h4>
+- 🎨 **Designing sleek UI/UX** that put users first  
+- ⚡ **Developing fast & responsive apps** with React + Tailwind  
+- 🌍 **Turning ideas into products** that solve real-world problems  
+- 🤝 **Collaborating & sharing knowledge** with communities  
 
-  
-  <div><a href="https://drive.google.com/file/d/1UGMnZT_JjPjz6xpXt-OWKRX9PXwq62HR/view?usp=drive_link">
-  <img src="53fd4eac-8cd8-47eb-afa6-a228af17ad27.JPG" alt="presentation screenshot">
-  <figcaption>Project documentation.pdf</figcaption>
-</a></div>
-
-- <h3><b>AFRI-CONNECT</b> Pitch video.ALX Presentation</h3>
+---
 
 
 
-  <h4>About this Project</h4>
-  <p>A video pitch of the problem identified and the proposed solution</p>
-  <h4>Skills</h4>
-  <ul>
-    <li><em>Good Communication</em></li>
-    <li><em>Time Management</em></li>
-    <li><em>Good Presentation</em></li>
-     <li><em>Audience Engagement</em></li>
-  </ul>
+## 🧰 Tech & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,node,express,git,github,tailwind" alt="Tech Stack" />
+</p>
 
-<h4>Project link</h4>
-  
-  <div><a href="https://youtu.be/I6EwTVhJ2ro">
-  <img src="53fd4eac-8cd8-47eb-afa6-a228af17ad27.JPG" alt="presentation screenshot">
-  <figcaption>Pitch video.mp4</figcaption>
-</a></div>
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">  
+✨ A quick peek at some of the cool things I’ve built 👇  
+</p>  
+
+| 🚧 Project | 🌟 Highlights |  
+|------------|--------------|  
+| 🗂️ **React Admin Dashboard** | 📊 Analytics, 📑 CRUD operations, 📈 Charts & Dark Mode |  
+| 🏡 **Real Estate Website** | 🔍 Property search & filter, 🗺️ Map integration, 📸 Beautiful listings |  
+| 🚀 **Digital Agency Website** | 🎯 Modern landing page, 🖼️ Portfolio showcase, 📬 Contact forms |  
+
+<p align="center">  
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coding animation" />  
+</p>  
+
+---
 
 
 
+## 📸 Welcome Bitmoji  
+<p align="center">
+  <img src="https://i.pravatar.cc/150?img=3" alt="Welcome Bitmoji / Avatar" width="150" style="border-radius:50%;" />
+  <!-- (You can replace this avatar link with any avatar/bitmoji image URL you like) -->
+</p>
+
+---
+
+## 📊 GitHub at a Glance  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iamloumie&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamloumie&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Let’s Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/your-twitter/">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+> _“Code is poetry; build what you love”_  
