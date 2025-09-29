@@ -1,7 +1,5 @@
 <h1>Hi, I'm Loumie! <br/><a href="https://github.com/Iamloumie">Software Engineer</a>
 
-<h2>🌱 I’m currently enrolled in Software Engineering programme @ALX</h2>
-
 <h2>👨‍💻 PROJECT:</h2>
 
 - <h3><b>AFRI-CONNECT</b> Mobile Application</h3>
